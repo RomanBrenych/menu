@@ -1,0 +1,109 @@
+.one {
+    background: #f2f2f2;  
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 500px;
+    height: 2490px;
+    font-family: 'Noto Serif', serif;
+    margin: auto;
+    margin-top: -8px;
+}
+
+body {
+    background-color: rgba(255, 192, 203, 0.253);
+}
+
+.menu {
+    
+    width: 470px;
+    height: 2400px;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-size: 12px;
+    /* border: 1px solid black; */
+    margin: auto;
+}
+
+.name {
+    color: #561d0c ;
+    padding-top: 10px;
+    margin-left: 5px;
+    height: 25px;
+    width: 448px;
+    font-size: 20px; 
+    /* border: 1px solid black; */
+}
+
+.top {
+    margin-left:  5px;
+    margin-top: 15px;
+    height: 100px;
+    float: left;
+    /* border: 1px solid black; */
+}
+
+.dish {
+    float: left;
+    margin-top: 15px;
+    margin-left: 5px;
+    height: 100px;
+    width: 300px;
+    /* border: 1px solid black; */
+}
+
+.price {
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color:#cdb383 ;
+    float: left;
+    clear: both;
+}
+
+div p {
+    padding-left: 5px;
+}
+
+.points {
+    color:#b9b9b9 ;
+}
+
+.currency {
+     color:#959506 ;
+}
+
+.hot {
+    color: #561d0c;
+    margin-left: 5px;
+    height: 25px;
+    width: 448px;
+    font-size: 20px;
+    /* border: 1px solid black; */
+    margin-top: 500px;
+}
+
+p {
+    color: #62737c;
+}
+
+.salad {
+    color: #561d0c;
+    margin-left: 5px;
+    height: 25px;
+    width: 448px;
+    font-size: 20px;
+    /* border: 1px solid black; */
+    margin-top: 380px;
+}
+
+.main {
+    color: #561d0c;
+    margin-left: 5px;
+    height: 25px;
+    width: 448px;
+    font-size: 20px;
+    /* border: 1px solid black; */
+    margin-top: 500px;
+}
+
+
